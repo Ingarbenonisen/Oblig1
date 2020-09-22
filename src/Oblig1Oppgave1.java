@@ -4,7 +4,8 @@ public class Oblig1Oppgave1 {
 
     /* Kall så de statiske metodene i sirkel-klassen for å vise følgende på
        System.out (gitt radius lik 23.5)
-jjkjkllkjkl  lololol
+       haaalloen
+
        Arealet av sirkelen med radius 23.5 er 1734,94
        Omkretsen av sirkelen med radius 23.5 er 147,65
        Diameteren til sirkelen er med radius 23.5 er 47,00
